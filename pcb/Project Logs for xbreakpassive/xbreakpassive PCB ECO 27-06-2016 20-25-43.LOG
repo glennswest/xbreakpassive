@@ -1,0 +1,43 @@
+Added Component: Designator=J2(JMP2_RA)
+Added Component: Designator=J3(1x3POS_SOCKET_LOWPROF)
+Added Component: Designator=J4(HDR1X4_2.54MMP)
+Added Component: Designator=J5(JMP2_RA)
+Added Component: Designator=J6(JMP2_RA)
+Added Component: Designator=J7(JMP2_RA)
+Added Component: Designator=J8(JMP2_RA)
+Added Component: Designator=J9(JMP2_RA)
+Added Component: Designator=J10(JMP2_RA)
+Added Component: Designator=J11(JMP2_RA)
+Added Pin To Net: NetName=THEM1 Pin=J2-1
+Added Pin To Net: NetName=THEM2 Pin=J2-2
+Added Pin To Net: NetName=ES1 Pin=J3-1
+Added Pin To Net: NetName=ES2 Pin=J3-2
+Added Pin To Net: NetName=ES3 Pin=J3-3
+Added Pin To Net: NetName=SIG1 Pin=J4-1
+Added Pin To Net: NetName=SIG2 Pin=J4-2
+Added Pin To Net: NetName=SIG3 Pin=J4-3
+Added Pin To Net: NetName=SIG4 Pin=J4-4
+Added Pin To Net: NetName=VIN Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=VIN Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=VIN Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=VIN Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=VIN Pin=J9-1
+Added Pin To Net: NetName=FANGND Pin=J9-2
+Added Pin To Net: NetName=VIN Pin=J10-1
+Added Pin To Net: NetName=FANGND Pin=J10-2
+Added Pin To Net: NetName=VIN Pin=J11-1
+Added Pin To Net: NetName=FANGND Pin=J11-2
+Added Member To Class: ClassName=Sheet1 Member=Component J2 Connector, jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J3 CONN_SOCKET_1x3P_0.100in
+Added Member To Class: ClassName=Sheet1 Member=Component J4 
+Added Member To Class: ClassName=Sheet1 Member=Component J5 Connector, jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J6 Connector, jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J7 Connector, jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J8 Connector, jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J9 Connector, jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J10 Connector, jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J11 Connector, jumper
