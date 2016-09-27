@@ -1,13 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [xbreakpassive.PrjPcb]
-   Generated File[xbreakpassive-RoundHoles.TXT]
-   Generated File[xbreakpassive-SlotHoles.TXT]
-   Generated File[xbreakpassive.LDP]
-   Generated File[xbreakpassive.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [xbreakpassive.PrjPcb]
 
 
-Files Generated   : 4
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 21:15:17 On 27/06/2016
+Finished Output Generation At 06:12:17 On 01/07/2016

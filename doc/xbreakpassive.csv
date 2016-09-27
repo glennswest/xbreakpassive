@@ -1,0 +1,6 @@
+Comment,Description,Designator,Footprint,LibRef,Manufacturer 1,Manufacturer Part Number 1,Quantity
+
+"USB_3_1","USB 3.1 Connector","J1","USB_3.1","USB 3.1","Amphenol Commercial Products","12401548E4#2A","1"
+"Connector, jumper","Connector Header 0.100in Right-angle single row","J2, J5, J6, J7, J8, J9, J10, J11","JMP2_RA","CONN_JMP_RA","Samtec Inc","TSW-150-08-L-S-RA","8"
+"CONN_SOCKET_1x3P_0.100in","Socket header THT 3-Pos Low profile Single-row 2.54mm pitch","J3","1x3POS_SOCKET_LOWPROF","CONN_SOCKET_1x3P_0.100in","Mill-Max Manufacturing Corp.","801-93-064-10-002000","1"
+"","Header 4-pin","J4","HDR1X4_2.54MMP","Header4P","","","1"
